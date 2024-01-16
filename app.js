@@ -20,3 +20,4 @@ app.get('/about', (req,res) => {
 app. listen(port,()=> console.log(`http://localhost:${port}`))
 
 /*INICIO EL SERVIDOR CON npm y- luego npm i express*/
+/*PARA LEVANTAR EL SERVIDOR LUEGO DEL CLONADO npm install y luego nodemon*/ 
